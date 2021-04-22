@@ -2,6 +2,7 @@ hello git
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 hello alex ice to meet you
 >>>>>>> ffd31a1aba99bcb548c5e7f39e6bacb25bcd7c73
@@ -13,3 +14,8 @@ what we do now?
 
 
 try on emore time...
+=======
+hello alex nice to meet you
+
+what we do now?
+>>>>>>> 40017cbef4ddb1ae6289f49495310049072d9c22
