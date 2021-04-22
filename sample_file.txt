@@ -1,2 +1,6 @@
 hello git
 
+<<<<<<< HEAD
+=======
+hello alex ice to meet you
+>>>>>>> ffd31a1aba99bcb548c5e7f39e6bacb25bcd7c73
